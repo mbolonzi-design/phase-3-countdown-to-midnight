@@ -8,7 +8,7 @@ def countdown int
     end
     "HAPPY NEW YEAR!"
 end
-binding.pry
+#binding.pry
 def countdown_with_sleep int
     while int > 0
         sleep(1)
